@@ -100,6 +100,7 @@ https://colab.research.google.com/drive/1bws4FkqjAneFLF7-qKbfgrexYE4i24Fn?usp=sh
 ~~~
 
 # Output
+~~~
 Enter data: 9 9 9 8 8 8 7 7 5 6 3
 X   P(X=x)   Obs.Fr   Exp.Fr   xi
 -----------------------------------
@@ -117,6 +118,7 @@ X   P(X=x)   Obs.Fr   Exp.Fr   xi
 Calculated value of Chi-square = 6.5026
 Table value at 1% LOS = 21.6660
 The given data CAN be fitted to Poisson Distribution at 1% LOS
+~~~
 
 
 
